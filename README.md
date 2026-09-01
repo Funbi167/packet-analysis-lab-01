@@ -17,7 +17,7 @@ Filtered traffic using `dns` to observe domain resolution.
 
 
 
-![DNS filter](screenshots/dns-filter.png)
+![DNS filter](dns-filter.png)
 
 
 
@@ -31,7 +31,7 @@ how unencrypted traffic exposes full page content.
 
 
 
-![HTTP stream](screenshots/http-stream.png)
+![HTTP stream](http-stream.png)
 
 
 
@@ -44,7 +44,7 @@ establishing a TCP connection.
 
 
 
-![TCP handshake](screenshots/tcp-handshake.png)
+![TCP handshake](tcp-handshake.png)
 
 
 
